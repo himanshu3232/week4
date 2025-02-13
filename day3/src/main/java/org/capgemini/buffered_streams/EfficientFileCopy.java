@@ -4,7 +4,7 @@ import java.io.*;
 
 /**
  * This program copies a file using both unbuffered and buffered streams.
- * It measures and compares execution time for efficiency analysis.
+ * It measures and compares execution time  for efficiency analysis.
  */
 public class EfficientFileCopy {
     public static void main(String[] args) {
