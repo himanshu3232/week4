@@ -1,3 +1,5 @@
+package basic;
+
 import static org.junit.jupiter.api.Assertions.*;
 
 import org.example.junit.basic.Calculator;
